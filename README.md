@@ -17,11 +17,12 @@ Add two screenshots here showing that you were able to run your Java program.
 ### Screenshot from Terminal
 
 > add screenshot here
+![](/Vs.png)
 
 ### Screenshot from IDE
 
 > add screenshot here
-
+![](/Geany.png)
 ## Task 4: Update your README file
 
 If this file is complete, nothing needs to be added here.
